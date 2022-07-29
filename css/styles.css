@@ -1,0 +1,82 @@
+body {
+    background-color: #f0ffee;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    color: cadetblue;
+    font-size: 6rem;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    color: cadetblue;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+}
+
+h3 {
+    color: #ffc03e;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+.top-container {
+    background-color: #DEFCF9;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.another {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    margin: auto;
+}
+.bottom-cloud {
+    position: absolute;
+    margin: auto;
+}
+
+.cat_scream {
+    width: 50%;
+    height: 50%;
+}
+
+.cat_sad {
+    width: 50%;
+    height: 50%;
+}
+
+.cat_serious {
+    width: 50%;
+    height: 50%;
+}
+
+.profile_cat {
+    margin-top: 50px;
+    width: 25%;
+    height: 25%;
+}
+
+.skill-row {
+    margin: 50px auto 100px auto;
+    width: 50%;
+}
+
+.cats_party {
+    width: 50%;
+    height: 50%;
+    background-color: aquamarine;
+}
+
+.bottom-container {
+    background-color: cornflowerblue;
+    margin: auto 50px auto 50px;
+}
